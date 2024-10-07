@@ -24,7 +24,7 @@ const Schedule = () => {
     console.log('requestData');
     console.log(requestData);
     await sendEmail(requestData);
-    alert('Request submitted successfully!');
+    alert('Request submitted successfully and confirmation email was sent to you inbox!');
   };
 
   // Check if session is still loading
