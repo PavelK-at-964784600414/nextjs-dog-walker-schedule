@@ -10,7 +10,7 @@ export default function Home() {
       flexDirection: 'column',
       textAlign: 'center',
     }}>
-      <h1>Welcome to the "Happy Dog Walk"</h1>
+      <h1>Hi, welcome to Happy Dog Walk</h1>
       <Link href="/schedule" style={{
         color: 'blue',
         textDecoration: 'underline',
